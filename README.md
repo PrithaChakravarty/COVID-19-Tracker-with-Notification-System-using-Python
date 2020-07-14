@@ -1,4 +1,4 @@
-# COVID-19-Tracker-with-Notification-System-using-Python
+# COVID-19-Tracker-with-Notification-System-using-Python     [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ## A Python Script which tracks the COVID-19 Outbreak in India and shows Notification in every 1 hour.
 
 ### Instructions
