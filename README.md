@@ -7,7 +7,7 @@
 3. Now edit the main.py file using your favorite code editor(Example: Sublime text editor, VSCode, Vim).
 4. Enter Your State Name in Line no 34. (Don't enter more than 2 States). (Example: states = ['Delhi', 'West Bengal',])
 5. Now save the file, close the editor and run main.py.
-#### This Program Will Only Work On Windows 10 Currently.
+#### This Program Will Only Work On Windows OS Currently.
 
 ### For any Queries/Doubts, Ask me:
 
